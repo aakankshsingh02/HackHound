@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646656963536",
+    "project_id": "hackhound-75f29",
+    "storage_bucket": "hackhound-75f29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646656963536:android:52085d4cc28890b32b7fd5",
+        "android_client_info": {
+          "package_name": "com.example.hackhound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646656963536-5g2ljd8t6m13f9gjh46fp4ncrsgfa367.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackhound",
+            "certificate_hash": "17940f07eebee93453033b9e94f2efb94c5a293f"
+          }
+        },
+        {
+          "client_id": "646656963536-b1v8u4d29u5bf0o2t15re37ng87p2lq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB45UtIUIH3scK2t9FqQwsH-K-4UR9DMPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646656963536-b1v8u4d29u5bf0o2t15re37ng87p2lq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
